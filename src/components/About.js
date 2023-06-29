@@ -34,8 +34,7 @@ const About = () => {
           >
             <h2 className='h2 text-accent'>About me.</h2>
             <h3 className='h3 mb-4'>
-              I'm a Freelance Front-end Developer with over 5 years of
-              experience.
+              I'm a Bachelor of Computer Information Systems with my CompTIA Security+ certificate.
             </h3>
             <p className='mb-6'>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor
