@@ -37,14 +37,15 @@ const About = () => {
               I'm a Bachelor of Computer Information Systems with my CompTIA Security+ certificate.
             </h3>
             <p className='mb-6'>
-            Detail-oriented with outstanding computer skills especially in Microsoft Office seeking an entry-level position to begin my career in a high-end professional environment. 
-            Consistent, disciplined, and straightforward to work with. Able to absorb information efficiently and quickly in regards to standard policies and procedures related to essential job functions.
+            I am detail-oriented with outstanding computer skills especially in Microsoft Office seeking an entry-level 
+            position to begin my career in a high-end professional environment. Consistent, disciplined, and straightforward to work with, and am 
+            able to absorb information efficiently and quickly in regards to standard policies and procedures related to essential job functions.
             </p>
             {/* stats */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
               <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
-                  {inView ? <CountUp start={0} end={13} duration={3} /> : null}
+                  {inView ? <CountUp start={0} end={2} duration={3} /> : null}
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
                   Years of <br />
@@ -53,8 +54,8 @@ const About = () => {
               </div>
               <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
-                  {inView ? <CountUp start={0} end={15} duration={3} /> : null}
-                  k+
+                  {inView ? <CountUp start={0} end={5} duration={3} /> : null}
+                  {/*add k+ here if needed*/}
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
                   Projects <br />
@@ -62,14 +63,6 @@ const About = () => {
                 </div>
               </div>
               <div>
-                <div className='text-[40px] font-tertiary text-gradient mb-2'>
-                  {inView ? <CountUp start={0} end={12} duration={3} /> : null}
-                  k+
-                </div>
-                <div className='font-primary text-sm tracking-[2px]'>
-                  Satisfied <br />
-                  Clients
-                </div>
               </div>
             </div>
             <div className='flex gap-x-8 items-center'>
