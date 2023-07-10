@@ -27,9 +27,7 @@ const Work = () => {
                 Work.
               </h2>
               <p className='max-w-sm mb-16'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellat, hic! Harum quis, cum velit neque esse eos molestias
-                doloremque explicabo!
+                Here are some of my completed projects that showcase some of my skills.
               </p>
               <button className='btn btn-sm'>View all projects</button>
             </div>
