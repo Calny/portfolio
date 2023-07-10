@@ -37,9 +37,8 @@ const About = () => {
               I'm a Bachelor of Computer Information Systems with my CompTIA Security+ certificate.
             </h3>
             <p className='mb-6'>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor
-              natus omnis inventore quas beatae illo nulla. Officiis magni omnis
-              molestias.
+            Detail-oriented with outstanding computer skills especially in Microsoft Office seeking an entry-level position to begin my career in a high-end professional environment. 
+            Consistent, disciplined, and straightforward to work with. Able to absorb information efficiently and quickly in regards to standard policies and procedures related to essential job functions.
             </p>
             {/* stats */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
